@@ -1,0 +1,190 @@
+/* reset de margens */
+* {
+    margin: 0;
+    padding:0;
+}
+
+
+/* ---- CSS DA HOME -------*/
+#corpo{
+	width: 70%;
+	height: auto;	
+	margin: 3% auto 0px auto;
+	background-color: #fff;
+
+}
+
+#imgPrincipal{	
+	margin: 0px auto 0px auto;
+	padding: 3px;
+	text-align: center;
+    margin-bottom: 2%;
+    margin-top: 4%;
+	
+}
+
+#imgPrincipal img{
+	max-width:100%;
+	margin: 0px auto 0px auto;
+    margin-top: 10%;
+
+}
+
+#nav{	
+	margin: 0px auto 0px auto;	
+	width: 70%;
+	background-color: #fff;
+    position: fixed;
+    top: 0;
+    margin-bottom: 5%;
+    border-bottom: 2px solid #F4E9D7;	
+}
+
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#fff;
+    list-style:none;
+    text-align: center;  
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#fff;
+    color: #333;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    border-bottom:3px solid #fff;
+
+}
+
+#menu ul li a:hover {
+    background-color:#fff;
+    color: red;
+    /*border-bottom:3px solid #EA0000; */
+    transition: 1s;
+}
+
+#bemvindo{
+	margin: 0px auto 0px auto;
+	padding: 3px;
+	text-align: center;
+    width: 50%;
+    border: 3px solid #F4E9D7;
+
+}
+
+#recado{
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    text-align: center;
+    width: 90%;
+    margin-top: 2%;
+   
+}
+
+h1{
+	font-family: 'Noto Sans KR', sans-serif
+    color: #000;
+}
+
+p{
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+    text-align: justify;
+    padding: 5px;   
+
+}
+
+#bemvindo img{
+    max-width:100%;
+    margin: 0px auto 0px auto;
+
+
+}
+
+
+#footer{
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    text-align: center;
+    width: 100%;
+    margin-top: 2%;
+    background-color: #F4E9D7;
+}
+
+
+/* -------- CSS PADRINHOS --------------*/
+
+
+#descpadrinhos{
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    text-align: center;
+    margin-bottom: 2%;    
+}
+
+#descpadrinhos p{
+    text-align: center;
+}
+
+#descpadrinhos img {
+    width: 200px;
+    height: 170px;
+}
+
+#descpadrinhos table {
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+}
+#descpadrinhos table img{
+    width: 200px;
+    height: 170px;
+    padding: 5px;
+}
+
+/* ----- CSS NOIVOS -----*/
+
+#descnoivos{
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    text-align: center;
+    margin-bottom: 2%;    
+}
+
+#descnoivos p{
+    text-align: center;
+}
+
+#descnoivos table{
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+}
+
+#descnoivos table img{
+    width: 300px;
+    height: 270px;
+}
+
+/* ----- CSS Festa -----*/
+
+#desfesta{
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    text-align: center;
+    margin-bottom: 2%;
+    border-bottom: 1px solid #000;
+}
+
+#descfesta p {
+    text-align: center;
+}
+

@@ -1,0 +1,53 @@
+.fotoAbertura{
+	height: 500px;
+}
+.fotoAbertura img{
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: #fff;
+
+
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 15px 19px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+   
+    color: #fff;
+    transition: 1s;
+
+}
+
+/* Main content */
+.main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
