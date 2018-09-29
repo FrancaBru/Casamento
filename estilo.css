@@ -188,3 +188,26 @@ p{
     text-align: center;
 }
 
+#descfesta h1{
+    text-align: center;
+}
+
+/* ----- CSS LUA DE MEL -----*/
+
+#desclua{
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    text-align: center;
+    margin-bottom: 2%;
+    border-bottom: 1px solid #000;
+}
+
+#desclua p{
+    text-align: center;
+}
+
+#desclua iframe{
+    width: 100%;
+    height: 600px;
+    border: none;
+}
