@@ -1,0 +1,24 @@
+/* reset de margens */
+* {
+    margin: 0;
+    padding:0;
+}
+
+#sobreNoivos{
+	width:  80%;
+	margin: 0 auto 0 auto;	
+	text-align: center;
+	text-indent: justify;	
+	padding: 5px;
+	
+
+}
+
+#sobreNoivos img{
+	width: 100%;
+	box-shadow: inset 0 0 1em gold, 0 0 1em #000;
+}
+
+#bruno{
+	
+}
