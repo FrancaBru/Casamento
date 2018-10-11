@@ -1,0 +1,13 @@
+/* reset de margens */
+/* reset de margens */
+* {
+    margin: 0;
+    padding:0;
+}
+
+.corpo{
+	width: 80%;
+	margin: 3% auto 0px auto;
+
+	
+}
