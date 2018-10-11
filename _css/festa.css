@@ -1,0 +1,38 @@
+/* reset de margens */
+* {
+    margin: 0;
+    padding:0;
+}
+
+.corpo{
+	width: 80%;
+	margin: 3% auto 0px auto;
+
+	
+}
+
+h1{
+	text-align: center;
+}
+
+.ftChacara{
+	width: 70%;
+	margin: 0 auto 0 auto;
+	border: 1px solid #000;
+	margin-bottom: 5%;
+}
+
+h3{
+	text-align: center;
+}
+
+h5{
+	text-align: center;
+}
+
+.map{
+	width: 70%;
+	margin: 0 auto 5% auto;
+
+
+}
